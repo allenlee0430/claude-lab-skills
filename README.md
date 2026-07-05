@@ -18,7 +18,7 @@ A collection of six [Claude Code](https://docs.claude.com/en/docs/claude-code) *
 Skills live in `~/.claude/skills/`. To install all six:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git /tmp/lab-skills
+git clone https://github.com/allenlee0430/allenlee-lab-skills.git /tmp/lab-skills
 mkdir -p ~/.claude/skills
 cp -R /tmp/lab-skills/grant-craft \
       /tmp/lab-skills/manuscript-studio \
