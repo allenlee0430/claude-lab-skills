@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nanomedicine Literature Radar"
+  short_description: "Track LNP, RNA, and gene-editing research"
+  default_prompt: "Use $scan-nanomedicine-literature to scan the newest work relevant to this project."

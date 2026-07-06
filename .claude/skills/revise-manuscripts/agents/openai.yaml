@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manuscript Studio"
+  short_description: "Revise papers, rebuttals, and cover letters"
+  default_prompt: "Use $revise-manuscripts to revise this manuscript and prepare the response to reviewers."

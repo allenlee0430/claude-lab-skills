@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Grant Craft"
+  short_description: "Draft rigorous funder-aligned research grants"
+  default_prompt: "Use $draft-research-grants to build this application around the funder review criteria."

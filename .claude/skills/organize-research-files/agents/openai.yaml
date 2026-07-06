@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research File Organizer"
+  short_description: "Safely sort research files with reversible logs"
+  default_prompt: "Use $organize-research-files to audit and organize my Desktop and Downloads."

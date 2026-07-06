@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reimbursement Packet Builder"
+  short_description: "Turn receipts into checked expense packets"
+  default_prompt: "Use $build-reimbursement-packets to reconcile these receipts and create a reimbursement packet."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI-LNP Experimental Loop"
+  short_description: "Plan LNP design-make-test-learn cycles"
+  default_prompt: "Use $design-lnp-experiments to design the next LNP experiment and learning loop."

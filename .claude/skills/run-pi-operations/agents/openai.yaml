@@ -1,0 +1,4 @@
+interface:
+  display_name: "PI Operations"
+  short_description: "Run trainee, teaching, and lab workflows"
+  default_prompt: "Use $run-pi-operations to prepare this lab-management deliverable."

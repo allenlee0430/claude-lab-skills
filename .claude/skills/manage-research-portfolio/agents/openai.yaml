@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Portfolio Command"
+  short_description: "Track projects, deadlines, risks, and decisions"
+  default_prompt: "Use $manage-research-portfolio to build my weekly PI command brief."
